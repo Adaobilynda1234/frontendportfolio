@@ -1,4 +1,4 @@
-import Trakmama from "../assets/projects/Trakmama.jpg";
+import Trakmama from "../assets/projects/Trakmamawebsite.jpg";
 import Dictionary from "../assets/projects/Dictionary.jpg";
 
 export const data = [
