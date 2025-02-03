@@ -24,11 +24,4 @@ export const data = [
     github: "https://github.com/Adaobilynda1234/React-Quiz-App",
     live: "https://react-quiz-app-sigma-inky.vercel.app/",
   },
-  {
-    id: 4,
-    name: "React JS Application",
-    image: Dictionary,
-    github: "https://github.com/Adaobilynda1234/Dictionary-app",
-    live: "https://effortless-blini-885ee1.netlify.app/",
-  },
 ];
