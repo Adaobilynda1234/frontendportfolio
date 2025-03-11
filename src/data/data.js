@@ -1,7 +1,7 @@
 import Trakmama from "../assets/projects/Trakmamawebsite.jpg";
 import Dictionary from "../assets/projects/Dictionary.jpg";
 import Quiz from "../assets/projects/Quizapp.jpg";
-import AI from "../assets/projects/Ai-portfolio.jpg";
+import Realestate from "../assets/projects/Realestateportfolio.jpg";
 
 export const data = [
   {
@@ -25,11 +25,11 @@ export const data = [
     github: "https://github.com/Adaobilynda1234/React-Quiz-App",
     live: "https://react-quiz-app-sigma-inky.vercel.app/",
   },
-  // {
-  //   id: 4,
-  //   name: "AI React js Application",
-  //   image: AI,
-  //   github: "https://github.com/Adaobilynda1234/Ai_powdered_app",
-  //   live: "https://ai-powered-app.netlify.app/",
-  // },
+  {
+    id: 4,
+    name: "Real estate Next js Application",
+    image: Realestate,
+    github: "https://github.com/Adaobilynda1234/nextreactestate",
+    live: "https://nextreactestate-gw1t.vercel.app/",
+  },
 ];
