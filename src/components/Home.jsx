@@ -11,7 +11,7 @@ const Home = () => {
           ADAOBI OKWUOSA
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Frontend Developer/Next js full stack Developer.
+          I'm a Frontend Developer/Next js full stack Developer/AI engineer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           I am a skilled Frontend Developer proficient in HTML, CSS, Bootstrap,

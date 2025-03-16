@@ -2,6 +2,7 @@ import Trakmama from "../assets/projects/Trakmamawebsite.jpg";
 import Dictionary from "../assets/projects/Dictionary.jpg";
 import Quiz from "../assets/projects/Quizapp.jpg";
 import Realestate from "../assets/projects/Realestateportfolio.jpg";
+import Polyglot from "../assets/projects/Polyglot.jpg";
 
 export const data = [
   {
@@ -31,5 +32,12 @@ export const data = [
     image: Realestate,
     github: "https://github.com/Adaobilynda1234/nextreactestate",
     live: "https://nextreactestate-gw1t.vercel.app/",
+  },
+  {
+    id: 5,
+    name: "AI Powered Language Translation App",
+    image: Polyglot,
+    github: "https://github.com/Adaobilynda1234/PolyGlot_text_translation_app",
+    live: "https://poly-glot-text-translation-app.vercel.app/",
   },
 ];
