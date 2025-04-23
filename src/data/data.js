@@ -3,6 +3,7 @@ import Dictionary from "../assets/projects/Dictionary.jpg";
 import Quiz from "../assets/projects/Quizapp.jpg";
 import Realestate from "../assets/projects/Realestateportfolio.jpg";
 import Polyglot from "../assets/projects/Polyglot.jpg";
+import Aichat from "../assets/projects/chat-bot.png";
 
 export const data = [
   {
@@ -39,5 +40,12 @@ export const data = [
     image: Polyglot,
     github: "https://github.com/Adaobilynda1234/PolyGlot_text_translation_app",
     live: "https://poly-glot-text-translation-app.vercel.app/",
+  },
+  {
+    id: 5,
+    name: "AI Powered Chat",
+    image: Aichat,
+    github: "https://github.com/Adaobilynda1234/react-ai-chatbot",
+    live: "https://react-ai-chatbot-azure.vercel.app/",
   },
 ];
